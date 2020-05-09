@@ -1,0 +1,45 @@
+form,#boxMensagem{
+    width: 500px;
+    margin: 10px auto;
+}
+label{
+    color: dodgerblue;
+    font-weight: bold;
+}
+input{
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+    border-radius: 5px;
+    border: 2px solid dodgerblue;
+    padding: 10px;
+}
+#boxMensagem{
+    background-color: dodgerblue;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+#boxErros{
+    background-color: darkred;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+#btnCadastrar{
+    display: block;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    width: 100%;
+    border-radius: 5px;
+    border: 2px solid transparent;
+    padding: 10px;
+    background-color: dodgerblue;
+    font-weight: bold;
+    color: white;
+    font-size: 1.2rem;
+}
